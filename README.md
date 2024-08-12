@@ -8,8 +8,14 @@ Atualmente busco oportunidades nas áreas de Salesforce, Frontend, Testes e Dado
 Estou sempre empenhada em aprender e muita vontade de aplicar meus conhecimentos em um ambiente profissional dinâmico. <br>
 Apaixonada por tecnologia, séries, games e sushi.
 
- <img align="right" alt="Suelen-pic" height="110" style="border-radius:30px;"        
-  src="https://user-images.githubusercontent.com/60116445/156653096-f09d9515-5304-4085-b4d4-f837fc009baa.gif">
+
+
+
+   <img align="right" alt="Suelen-pic" height="110" style="border-radius:30px;"        
+  src="https://github.com/user-attachments/assets/5cb4f31e-696d-4956-b79b-cb7d2f6c06b4">
+
+  
+
 
 - 😄 Pronomes: ela/dela
 - 📱 Você me encontra nas seguintes redes: 
