@@ -1,4 +1,4 @@
-## Olá!! Eu sou a Suelen 👋
+## Olá Mundo!! Eu sou a Suelen 👋
 
 Sou graduada em Análise e Desenvolvimento de Sistemas pela Faculdade Senac Pernambuco.  <br>
 Atuei como estagiária na área de Salesforce, onde pude prestar assistência em atividades relacionadas à plataforma. <br>
@@ -11,7 +11,7 @@ Apaixonada por tecnologia, séries, games e sushi.
 
 
 
-   <img align="right" alt="Suelen-pic" height="110" style="border-radius:30px;"        
+   <img align="right" alt="Suelen-pic" height="162" style="border-radius:30px;"        
   src="https://github.com/user-attachments/assets/5cb4f31e-696d-4956-b79b-cb7d2f6c06b4">
 
   
