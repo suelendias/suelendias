@@ -1,20 +1,14 @@
 ## Olá Mundo!! Eu sou a Suelen 👋
 
+   <img align="left" alt="Suelen-pic" height="190" style="border-radius:30px;"        
+  src="https://github.com/user-attachments/assets/5cb4f31e-696d-4956-b79b-cb7d2f6c06b4">
+
 Sou graduada em Análise e Desenvolvimento de Sistemas pela Faculdade Senac Pernambuco.  <br>
 Atuei como estagiária na área de Salesforce, onde pude prestar assistência em atividades relacionadas à plataforma. <br>
 Possuo conhecimento em Java, JavaScript, C#, SQL, HTML, CSS e Automação de testes com Cypress. <br>
-Inglês e Espanhol intermediário. <br>
-Atualmente busco oportunidades nas áreas de Salesforce, Frontend, Testes e Dados. <br>
+Atualmente busco oportunidades nas áreas de Frontend e Testes. <br>
 Estou sempre empenhada em aprender e muita vontade de aplicar meus conhecimentos em um ambiente profissional dinâmico. <br>
 Apaixonada por tecnologia, séries, games e sushi.
-
-
-
-
-   <img align="right" alt="Suelen-pic" height="162" style="border-radius:30px;"        
-  src="https://github.com/user-attachments/assets/5cb4f31e-696d-4956-b79b-cb7d2f6c06b4">
-
-  
 
 
 - 😄 Pronomes: ela/dela
@@ -23,13 +17,9 @@ Apaixonada por tecnologia, séries, games e sushi.
   <a href="https://www.linkedin.com/in/suelendias01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:diassuelen01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
  <a href = "https://www.salesforce.com/trailblazer/suelendias"><img src="https://img.shields.io/badge/-Trailhead-%230080B3?style=for-the-badge&logo=salesforce&logoColor=white" target="_blank"></a>  
- 
- 
-  <br>
 </div>
+   <br>
 
-  
- 
  ## Tecnologias que estou aprendendo 🌱:  
  <div style="display: inline_block">   
   <img align="center" alt="Suelen-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
