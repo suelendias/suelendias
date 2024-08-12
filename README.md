@@ -1,6 +1,6 @@
 ## Olá Mundo!! Eu sou a Suelen 👋
 
-   <img align="left" alt="Suelen-pic" height="190" style="border-radius:30px;"        
+   <img align="left" alt="Suelen-pic" height="180" style="border-radius:30px;"        
   src="https://github.com/user-attachments/assets/5cb4f31e-696d-4956-b79b-cb7d2f6c06b4">
 
 Sou graduada em Análise e Desenvolvimento de Sistemas pela Faculdade Senac Pernambuco.  <br>
@@ -9,7 +9,6 @@ Possuo conhecimento em Java, JavaScript, C#, SQL, HTML, CSS e Automação de tes
 Atualmente busco oportunidades nas áreas de Frontend e Testes. <br>
 Estou sempre empenhada em aprender e muita vontade de aplicar meus conhecimentos em um ambiente profissional dinâmico. <br>
 Apaixonada por tecnologia, séries, games e sushi.  <br>
-
 
 - 😄 Pronomes: ela/dela 
 - 📱 Você me encontra nas seguintes redes: 
