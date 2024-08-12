@@ -8,17 +8,17 @@ Atuei como estagiária na área de Salesforce, onde pude prestar assistência em
 Possuo conhecimento em Java, JavaScript, C#, SQL, HTML, CSS e Automação de testes com Cypress. <br>
 Atualmente busco oportunidades nas áreas de Frontend e Testes. <br>
 Estou sempre empenhada em aprender e muita vontade de aplicar meus conhecimentos em um ambiente profissional dinâmico. <br>
-Apaixonada por tecnologia, séries, games e sushi.
+Apaixonada por tecnologia, séries, games e sushi.  <br>
 
 
-- 😄 Pronomes: ela/dela
+- 😄 Pronomes: ela/dela 
 - 📱 Você me encontra nas seguintes redes: 
 <div>   
   <a href="https://www.linkedin.com/in/suelendias01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:diassuelen01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
  <a href = "https://www.salesforce.com/trailblazer/suelendias"><img src="https://img.shields.io/badge/-Trailhead-%230080B3?style=for-the-badge&logo=salesforce&logoColor=white" target="_blank"></a>  
 </div>
-   <br>
+   
 
  ## Tecnologias que estou aprendendo 🌱:  
  <div style="display: inline_block">   
