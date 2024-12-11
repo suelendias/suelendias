@@ -4,8 +4,9 @@
   src="https://github.com/user-attachments/assets/5cb4f31e-696d-4956-b79b-cb7d2f6c06b4">
 
 Sou graduada em Análise e Desenvolvimento de Sistemas pela Faculdade Senac Pernambuco. <br>
-Durante meu estágio na área de Salesforce, tive a oportunidade de auxiliar em diversas atividades relacionadas à plataforma, aprimorando minhas habilidades em desenvolvimento e suporte.  <br>
-Tenho experiência e conhecimento em Java, JavaScript, SQL, HTML e CSS, e atualmente estou me aprofundando em React.   <br>
+Estagiei na área de Salesforce, onde tive a oportunidade de auxiliar em diversas atividades relacionadas à plataforma, 
+aprimorando minhas habilidades em desenvolvimento e suporte.  <br>
+Tenho experiência e conhecimento em Java, JavaScript, HTML, CSS, e atualmente estou me aprofundando em React.   <br>
 Busco novas oportunidades nas áreas de Front-End e Testes, com foco em aplicar e expandir minhas habilidades em um ambiente profissional dinâmico e inovador.  <br>
 Sou apaixonada por tecnologia, sempre em busca de aprendizado contínuo, e me interesso por séries, games e sushi.  <br>
 
